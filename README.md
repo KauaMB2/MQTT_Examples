@@ -19,4 +19,11 @@
 
 <hr>
 
-Publish 
+Publicar e assinar (ou subscribe) são ações fundamentais no protocolo MQTT, que é um protocolo de mensagens leve e eficiente para comunicação entre dispositivos em redes com largura de banda limitada.
+
+Fazer um publish em um broker MQTT significa enviar uma mensagem para um tópico específico, que é um identificador de mensagem utilizado para categorizar as mensagens que são enviadas no protocolo. Quando uma mensagem é publicada em um tópico, o broker encaminha essa mensagem para todos os dispositivos que estão "escutando" (ou seja, que se inscreveram) nesse tópico.
+
+Por outro lado, fazer um subscribe em um broker MQTT significa que um dispositivo se inscreve em um ou mais tópicos específicos para receber mensagens publicadas nesses tópicos. Quando uma mensagem é publicada em um tópico para o qual um dispositivo se inscreveu, o broker encaminha essa mensagem para o dispositivo.
+
+Assim, os dispositivos que publicam e os que assinam em um broker MQTT podem se comunicar efetivamente, permitindo que sejam implementadas soluções de IoT, monitoramento e controle em tempo real, entre outras aplicações.
+
