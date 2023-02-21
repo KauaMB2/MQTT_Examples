@@ -19,13 +19,13 @@
 
 <hr>
 
-Publicar e assinar (ou subscribe) são ações fundamentais no protocolo MQTT, que é um protocolo de mensagens leve e eficiente para comunicação entre dispositivos em redes com largura de banda limitada.
+Publishing and subscribing (or subscribing) are fundamental actions in the MQTT protocol, which is a lightweight and efficient messaging protocol for communication between devices on networks with limited bandwidth.
 
-Fazer um publish em um broker MQTT significa enviar uma mensagem para um tópico específico, que é um identificador de mensagem utilizado para categorizar as mensagens que são enviadas no protocolo. Quando uma mensagem é publicada em um tópico, o broker encaminha essa mensagem para todos os dispositivos que estão "escutando" (ou seja, que se inscreveram) nesse tópico.
+Publishing to an MQTT broker means sending a message to a specific topic, which is a message identifier used to categorize messages that are sent in the protocol. When a message is posted to a topic, the broker has forwarded that message to all devices that are "listening" (that is, subscribed to) that topic.
 
-Por outro lado, fazer um subscribe em um broker MQTT significa que um dispositivo se inscreve em um ou mais tópicos específicos para receber mensagens publicadas nesses tópicos. Quando uma mensagem é publicada em um tópico para o qual um dispositivo se inscreveu, o broker encaminha essa mensagem para o dispositivo.
+On the other hand, subscribe to an MQTT broker means that a device subscribes to one or more specific to receive published messages those provided. When a message is posted to a topic that a device has subscribed to, the broker has forwarded that message to the device.
 
-Assim, os dispositivos que publicam e os que assinam em um broker MQTT podem se comunicar efetivamente, permitindo que sejam implementadas soluções de IoT, monitoramento e controle em tempo real, entre outras aplicações.
+Thus, devices that publish and those that subscribe to an MQTT broker can communicate effectively, allowing IoT solutions, monitoring and control in real time, among other applications, to be integrated.
 <hr>
 
 ## Image:
