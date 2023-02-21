@@ -1,0 +1,92 @@
+C:\Users\Rafael\Desktop\teste\obj\Debug\net6.0\teste.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\teste\obj\Debug\net6.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\teste\obj\Debug\net6.0\teste.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\teste\obj\Debug\net6.0\teste.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\teste\obj\Debug\net6.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\teste\bin\Debug\net6.0\teste.exe
+C:\Users\Rafael\Desktop\teste\bin\Debug\net6.0\teste.deps.json
+C:\Users\Rafael\Desktop\teste\bin\Debug\net6.0\teste.runtimeconfig.json
+C:\Users\Rafael\Desktop\teste\bin\Debug\net6.0\teste.dll
+C:\Users\Rafael\Desktop\teste\bin\Debug\net6.0\teste.pdb
+C:\Users\Rafael\Desktop\teste\bin\Debug\net6.0\FireSharp.dll
+C:\Users\Rafael\Desktop\teste\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Rafael\Desktop\teste\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Rafael\Desktop\teste\bin\Debug\net6.0\Microsoft.Threading.Tasks.dll
+C:\Users\Rafael\Desktop\teste\bin\Debug\net6.0\System.Net.Http.Extensions.dll
+C:\Users\Rafael\Desktop\teste\bin\Debug\net6.0\System.Net.Http.Primitives.dll
+C:\Users\Rafael\Desktop\teste\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Rafael\Desktop\teste\obj\Debug\net6.0\teste.csproj.CopyComplete
+C:\Users\Rafael\Desktop\teste\obj\Debug\net6.0\teste.dll
+C:\Users\Rafael\Desktop\teste\obj\Debug\net6.0\refint\teste.dll
+C:\Users\Rafael\Desktop\teste\obj\Debug\net6.0\teste.pdb
+C:\Users\Rafael\Desktop\teste\obj\Debug\net6.0\teste.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\teste\obj\Debug\net6.0\ref\teste.dll
+C:\Users\Rafael\Desktop\teste\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rafael\Desktop\teste\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Rafael\Desktop\teste\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Rafael\Desktop\teste\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Rafael\Desktop\teste\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rafael\Desktop\teste\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Rafael\Desktop\teste\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Rafael\Desktop\teste - Cópia\bin\Debug\net6.0\teste.exe
+C:\Users\Rafael\Desktop\teste - Cópia\bin\Debug\net6.0\teste.deps.json
+C:\Users\Rafael\Desktop\teste - Cópia\bin\Debug\net6.0\teste.runtimeconfig.json
+C:\Users\Rafael\Desktop\teste - Cópia\bin\Debug\net6.0\teste.dll
+C:\Users\Rafael\Desktop\teste - Cópia\bin\Debug\net6.0\teste.pdb
+C:\Users\Rafael\Desktop\teste - Cópia\bin\Debug\net6.0\FireSharp.dll
+C:\Users\Rafael\Desktop\teste - Cópia\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Rafael\Desktop\teste - Cópia\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Rafael\Desktop\teste - Cópia\bin\Debug\net6.0\Microsoft.Threading.Tasks.dll
+C:\Users\Rafael\Desktop\teste - Cópia\bin\Debug\net6.0\System.Net.Http.Extensions.dll
+C:\Users\Rafael\Desktop\teste - Cópia\bin\Debug\net6.0\System.Net.Http.Primitives.dll
+C:\Users\Rafael\Desktop\teste - Cópia\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rafael\Desktop\teste - Cópia\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Rafael\Desktop\teste - Cópia\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Rafael\Desktop\teste - Cópia\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Rafael\Desktop\teste - Cópia\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Rafael\Desktop\teste - Cópia\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rafael\Desktop\teste - Cópia\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Rafael\Desktop\teste - Cópia\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Rafael\Desktop\teste - Cópia\obj\Debug\net6.0\teste.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\teste - Cópia\obj\Debug\net6.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\teste - Cópia\obj\Debug\net6.0\teste.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\teste - Cópia\obj\Debug\net6.0\teste.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\teste - Cópia\obj\Debug\net6.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\teste - Cópia\obj\Debug\net6.0\teste.csproj.CopyComplete
+C:\Users\Rafael\Desktop\teste - Cópia\obj\Debug\net6.0\teste.dll
+C:\Users\Rafael\Desktop\teste - Cópia\obj\Debug\net6.0\refint\teste.dll
+C:\Users\Rafael\Desktop\teste - Cópia\obj\Debug\net6.0\teste.pdb
+C:\Users\Rafael\Desktop\teste - Cópia\obj\Debug\net6.0\teste.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\teste - Cópia\obj\Debug\net6.0\ref\teste.dll
+C:\Users\Rafael\Desktop\teste - Cópia\bin\Debug\net6.0\M2Mqtt.Net.dll
+C:\Users\Rafael\Desktop\MQTT CSharp\MQTT-Flask-Websockets\mqtt\exemplosMQTT\C#\Publish\bin\Debug\net6.0\teste.exe
+C:\Users\Rafael\Desktop\MQTT CSharp\MQTT-Flask-Websockets\mqtt\exemplosMQTT\C#\Publish\bin\Debug\net6.0\teste.deps.json
+C:\Users\Rafael\Desktop\MQTT CSharp\MQTT-Flask-Websockets\mqtt\exemplosMQTT\C#\Publish\bin\Debug\net6.0\teste.runtimeconfig.json
+C:\Users\Rafael\Desktop\MQTT CSharp\MQTT-Flask-Websockets\mqtt\exemplosMQTT\C#\Publish\bin\Debug\net6.0\teste.dll
+C:\Users\Rafael\Desktop\MQTT CSharp\MQTT-Flask-Websockets\mqtt\exemplosMQTT\C#\Publish\bin\Debug\net6.0\teste.pdb
+C:\Users\Rafael\Desktop\MQTT CSharp\MQTT-Flask-Websockets\mqtt\exemplosMQTT\C#\Publish\bin\Debug\net6.0\FireSharp.dll
+C:\Users\Rafael\Desktop\MQTT CSharp\MQTT-Flask-Websockets\mqtt\exemplosMQTT\C#\Publish\bin\Debug\net6.0\M2Mqtt.Net.dll
+C:\Users\Rafael\Desktop\MQTT CSharp\MQTT-Flask-Websockets\mqtt\exemplosMQTT\C#\Publish\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Rafael\Desktop\MQTT CSharp\MQTT-Flask-Websockets\mqtt\exemplosMQTT\C#\Publish\bin\Debug\net6.0\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Rafael\Desktop\MQTT CSharp\MQTT-Flask-Websockets\mqtt\exemplosMQTT\C#\Publish\bin\Debug\net6.0\Microsoft.Threading.Tasks.dll
+C:\Users\Rafael\Desktop\MQTT CSharp\MQTT-Flask-Websockets\mqtt\exemplosMQTT\C#\Publish\bin\Debug\net6.0\System.Net.Http.Extensions.dll
+C:\Users\Rafael\Desktop\MQTT CSharp\MQTT-Flask-Websockets\mqtt\exemplosMQTT\C#\Publish\bin\Debug\net6.0\System.Net.Http.Primitives.dll
+C:\Users\Rafael\Desktop\MQTT CSharp\MQTT-Flask-Websockets\mqtt\exemplosMQTT\C#\Publish\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rafael\Desktop\MQTT CSharp\MQTT-Flask-Websockets\mqtt\exemplosMQTT\C#\Publish\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Rafael\Desktop\MQTT CSharp\MQTT-Flask-Websockets\mqtt\exemplosMQTT\C#\Publish\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Rafael\Desktop\MQTT CSharp\MQTT-Flask-Websockets\mqtt\exemplosMQTT\C#\Publish\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Rafael\Desktop\MQTT CSharp\MQTT-Flask-Websockets\mqtt\exemplosMQTT\C#\Publish\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Rafael\Desktop\MQTT CSharp\MQTT-Flask-Websockets\mqtt\exemplosMQTT\C#\Publish\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rafael\Desktop\MQTT CSharp\MQTT-Flask-Websockets\mqtt\exemplosMQTT\C#\Publish\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Rafael\Desktop\MQTT CSharp\MQTT-Flask-Websockets\mqtt\exemplosMQTT\C#\Publish\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Rafael\Desktop\MQTT CSharp\MQTT-Flask-Websockets\mqtt\exemplosMQTT\C#\Publish\obj\Debug\net6.0\teste.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\MQTT CSharp\MQTT-Flask-Websockets\mqtt\exemplosMQTT\C#\Publish\obj\Debug\net6.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\MQTT CSharp\MQTT-Flask-Websockets\mqtt\exemplosMQTT\C#\Publish\obj\Debug\net6.0\teste.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\MQTT CSharp\MQTT-Flask-Websockets\mqtt\exemplosMQTT\C#\Publish\obj\Debug\net6.0\teste.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\MQTT CSharp\MQTT-Flask-Websockets\mqtt\exemplosMQTT\C#\Publish\obj\Debug\net6.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\MQTT CSharp\MQTT-Flask-Websockets\mqtt\exemplosMQTT\C#\Publish\obj\Debug\net6.0\teste.csproj.CopyComplete
+C:\Users\Rafael\Desktop\MQTT CSharp\MQTT-Flask-Websockets\mqtt\exemplosMQTT\C#\Publish\obj\Debug\net6.0\teste.dll
+C:\Users\Rafael\Desktop\MQTT CSharp\MQTT-Flask-Websockets\mqtt\exemplosMQTT\C#\Publish\obj\Debug\net6.0\refint\teste.dll
+C:\Users\Rafael\Desktop\MQTT CSharp\MQTT-Flask-Websockets\mqtt\exemplosMQTT\C#\Publish\obj\Debug\net6.0\teste.pdb
+C:\Users\Rafael\Desktop\MQTT CSharp\MQTT-Flask-Websockets\mqtt\exemplosMQTT\C#\Publish\obj\Debug\net6.0\teste.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\MQTT CSharp\MQTT-Flask-Websockets\mqtt\exemplosMQTT\C#\Publish\obj\Debug\net6.0\ref\teste.dll
